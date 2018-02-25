@@ -9,8 +9,5 @@ Edit here
 ```perl
 osascript -e 'display notification "在庫を確認しました" with title "お知らせ" subtitle "$name"'
 ```
-
-# Licence
-
 # Author
 Shuto Kawabata
