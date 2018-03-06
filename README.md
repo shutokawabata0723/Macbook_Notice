@@ -7,7 +7,7 @@ Notification for macbook using perl program.
 # How to use
 Edit here
 ```perl
-osascript -e 'display notification "在庫を確認しました" with title "お知らせ" subtitle "$name"'
+osascript -e 'display notification "お知らせです" with title "タイトル" subtitle "サブタイトル"'
 ```
 # Author
 Shuto Kawabata
